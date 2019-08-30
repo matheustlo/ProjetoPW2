@@ -1,0 +1,169 @@
+dot<head>
+    <globalization fileEncoding="utf-8" requestEncoding="utf-8" responseEncoding="utf-8" culture="pt-br" />
+</head>
+<style>
+    .check {
+        width 1px;
+    }
+</style>
+<form class="form-horizontal">
+   <h3>Cadastro De Usuário</h3>
+    <fieldset class="border">
+        <legend>Dados Pessoais</legend>
+        <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" placeholder="Nome Completo" name="nome" required class="form-control" />
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-4">
+                    <label for="dtNascimento">Data Nascimento</label>
+                    <input type="date" placeholder="Data Nascimento" name="dtNascimento" required class="form-control" />
+                </div>
+                <div class="col-sm-4">
+                    <label for="rg">RG</label>
+                    <input type="text" placeholder="RG" name="rg" required class="form-control" />
+                </div>
+                <div class="col-sm-4">
+                    <label for="cpf">CPF</label>
+                    <input type="text" placeholder="CPF" name="rg" required class="form-control" />
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <br>
+    <fieldset class="border">
+        <legend>Filiação</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-6">
+                    <label for="NomeDoPai">Nome Pai</label>
+                    <input type="text" placeholder="Nome Pai" name="NomeDoPai" required class="form-control" />
+                </div>
+                <div class="col-sm-6">
+                    <label for="NomeDaMae">Nome Mãe</label>
+                    <input type="text" placeholder="Nome Mãe" name="NomeDaMae" required class="form-control" />
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <br>
+    <fieldset class="border">
+        <legend>Dados Estudantis</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-1">
+                    <label for="aluno">Aluno</label>
+                    <input type="checkbox" class=".check" placeholder="Aluno" name="aluno" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="matricula">Matricula</label>
+                    <input forma type="text" placeholder="Matricula" name="matricula" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="turma">Turma</label>
+                    <input type="text" placeholder="Turma" name="turma" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="horario">Horário</label>
+                    <input data-format="MM/dd/yyyy HH:mm:ss PP" type="text" placeholder="Horário" name="horario" required class="form-control" />
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="border">
+        <legend>Contatos</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-3">
+                    <label for="telcelular">Tel. Celular</label>
+                    <input type="text" placeholder="Tel. Celular" name="telcelular" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="telresident">Telefone Residencial</label>
+                    <input type="text" placeholder="Telefone Residencial" name="telresident" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="telrec">Tel. Recado</label>
+                    <input type="text" placeholder="Tel. Recado" name="telrec" required class="form-control" />
+                </div>
+                <div class="col-sm-3">
+                    <label for="namecontact">Nome do Contato</label>
+                    <input type="text" placeholder="Nome Contato" name="namecontact" required class="form-control" />
+                </div>
+                <div class="col-sm-6">
+                    <label for="email">E-mail</label>
+                    <input type="text" placeholder="E-mail" name="email" required class="form-control" />
+                </div>
+                <div class="col-sm-6">
+                    <label for="personalPage">Pagina Pessoal</label>
+                    <input type="text" placeholder="Https://www.NomePagina.com.br" name="personalPage" required class="form-control" />
+                </div>
+            </div>
+        </div>
+    </fieldset>
+
+    <fieldset class="border">
+        <legend>Endereço</legend>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-2">
+                    <label for="Cep">CEP</label>
+                    <input type="text" placeholder="CEP" name="Cep" required class="form-control" />
+                </div>
+                <div class="col-sm-8">
+                    <label for="Logdouro">Logradouro</label>
+                    <input type="text" placeholder="Logradouro....." name="Logdouro" required class="form-control" />
+                </div>
+                <div class="col-sm-2">
+                    <label for="NumberHome">Numero</label>
+                    <input type="text" placeholder="Numero" name="NumberHome" required class="form-control" />
+                </div>
+                <div class="col-sm-5">
+                    <label for="city">Cidade</label>
+                    <input type="text" placeholder="Cidade" name="city" required class="form-control" />
+                </div>
+                <div class="col-sm-2">
+                    <label for="UFS">UF</label>
+                    <select class="form-control" id="exampleFormControlSelect1">
+                        <option>UF</option>
+                        <option>Acre (AC)</option>
+                        <option> Alagoas (AL)</option>
+                        <option>Amazonas (AM)</option>
+                        <option>Amapá (AP)</option>
+                        <option>Bahia (BA</option>
+                        <option> Ceará (CE)</option>
+                        <option> Distrito Federal (DF)</option>
+                        <option> Espírito Santo (ES)</option>
+                        <option> Goiás (GO)</option>
+                        <option> Maranhão (MA)</option>
+                        <option>Mato Grosso (MT)</option>
+                        <option> Mato Grosso do Sul (MS)</option>
+                        <option> Minas Gerais (MG)</option>
+                        <option>Pará (PA)</option>
+                        <option>Paraíba (PB)</option>
+                        <option>Paraná (PR)</option>
+                        <option> Pernambuco (PE)</option>
+                        <option>Piauí (PI)</option>
+                        <option> Rio de Janeiro (RJ)</option>
+                        <option> Rio Grande do Norte (RN)</option>
+                        <option>  Rio Grande do Sul (RS)</option>
+                        <option> Rondônia (RO)</option>
+                        <option> Roraima (RR)</option>
+                        <option> Santa Catarina (SC)</option>
+                        <option> São Paulo (SP)</option>
+                        <option>Sergipe (SE)</option>
+                        <option> Tocantins (TO)</option>
+                    </select>
+                </div>
+                <div class="col-sm-5">
+                    <label for="PointOfReference">Ponto de Refêrencia</label>
+                    <input type="text" placeholder="Ponto de Refêrencia" name="PointOfReference" required class="form-control" />
+                </div>
+            </div>
+        </div>
+        <button type="button" class="btn btn-success">Cadastrar</button>
+        <button type="button" class="btn btn-danger">Cancelar</button>
+    </fieldset>
+</form>
+
