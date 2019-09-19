@@ -21,27 +21,39 @@
     </environment>
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">projetoPW</a>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
-                    <li><a asp-area="" asp-controller="Acesso" asp-action="Login">Login</a></li>  <!-- barra do menu -->
-                    <li><a asp-area="" asp-controller="Cadastro" asp-action="Cadastro">Cadastro</a></li>
-                    <li><a asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Consulta</a></li>
-                </ul>
-            </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top">
+        <a asp-area="" asp-controller="Home" asp-action="Index">Projeto PW</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                <li class="nav-link"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="">Home</a></li>
+                <li class="nav-link"> <a class="nav-link" asp-controller="Acesso" asp-action="Login">Login</a></li>  <!-- barra do menu -->
+                <li class="nav-link"><a class="nav-link" asp-area="" asp-controller="Cadastro" asp-action="Cadastro">Cadastro</a></li>
+                <li class="nav-link"><a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Consulta</a></li>
+                </li>
+                <li class="nav-link dropdown">
+                    <a asp-area="" asp-controller="" asp-action="" class="nav-link dropdown-toggle" id="navbarDropdown" data-toggle="dropdown">Anime</a>
+                    <div class="dropdown-menu" aria-labelledby="Dropdown">
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Inverno 2019</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Primavera 2019</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Verão 2019</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Outuno 2019</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Inverno 2018</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Primavera 2018</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Verão 2018</a>
+                        <a class="nav-link" asp-area="" asp-controller="Pesquisa" asp-action="Pesquisa">Outuno 2018</a>
+                    </div>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+            </form>
         </div>
     </nav>
     <div class="container body-content">

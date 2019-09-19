@@ -31,3 +31,14 @@ F:\Aulas\PWII\projetoPW\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfo.cs
 F:\Aulas\PWII\projetoPW\obj\Debug\netcoreapp2.0\projetoPW.dll
 F:\Aulas\PWII\projetoPW\obj\Debug\netcoreapp2.0\projetoPW.pdb
 F:\Aulas\PWII\projetoPW\obj\Debug\netcoreapp2.0\projetoPW.csprojAssemblyReference.cache
+C:\Users\TI\Source\Repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\TI\Source\Repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.pdb
+C:\Users\TI\source\repos\ProjetoPW2\bin\Debug\netcoreapp2.0\projetoPW.deps.json
+C:\Users\TI\source\repos\ProjetoPW2\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.json
+C:\Users\TI\source\repos\ProjetoPW2\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.dev.json
+C:\Users\TI\source\repos\ProjetoPW2\bin\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\TI\source\repos\ProjetoPW2\bin\Debug\netcoreapp2.0\projetoPW.pdb
+C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.csprojAssemblyReference.cache
+C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfo.cs

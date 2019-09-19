@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Aulas\\PWII\\projetoPW\\projetoPW.csproj",
+      "projectUniqueName": "C:\\Users\\TI\\source\\repos\\ProjetoPW2\\projetoPW.csproj",
       "projectName": "projetoPW",
-      "projectPath": "F:\\Aulas\\PWII\\projetoPW\\projetoPW.csproj",
+      "projectPath": "C:\\Users\\TI\\source\\repos\\ProjetoPW2\\projetoPW.csproj",
       "packagesPath": "C:\\Users\\TI\\.nuget\\packages\\",
-      "outputPath": "F:\\Aulas\\PWII\\projetoPW\\obj\\",
+      "outputPath": "C:\\Users\\TI\\source\\repos\\ProjetoPW2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
