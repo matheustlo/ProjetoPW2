@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers",
     "\\Models",
-    "\\Views",
-    "\\Views\\Acesso",
-    "\\Views\\Cadastro",
-    "\\wwwroot"
+    "\\Views\\Cadastro"
   ],
-  "SelectedNode": "\\projetoPW.csproj.user",
+  "SelectedNode": "\\projetoPW.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,4 @@
-﻿/* Wrapping element */
-/* Set some basic padding to keep content from hitting the edges */
+﻿
 
 
 /* Carousel */
@@ -24,4 +23,38 @@
     .carousel-caption {
         display: none;
     }
+
+    .image1{
+        background: url(../images/F1.jpg);
+
+
+        
+    }
+
+
+}
+
+.img-responsive {
+    width: 10px;
+    height: auto
+}
+.col-md-4 col-xs-6{
+    width: 100px;
+    height: 20px
+}
+.row {
+    width: 100px;
+    height: 20px
+}
+.container {
+    width: 100px;
+    height: 20px
+}
+.thumbnail {
+    width: 100px;
+    height: 20px
+}
+.img-thumbnail {
+    width: 100px;
+    height: 20px
 }

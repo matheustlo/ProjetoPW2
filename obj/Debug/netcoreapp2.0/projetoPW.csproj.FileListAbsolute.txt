@@ -42,3 +42,29 @@ C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.csprojAsse
 C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.csproj.CoreCompileInputs.cache
 C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfoInputs.cache
 C:\Users\TI\source\repos\ProjetoPW2\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfo.cs
+C:\Users\matheus gabriel\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.deps.json
+C:\Users\matheus gabriel\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.json
+C:\Users\matheus gabriel\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.dev.json
+C:\Users\matheus gabriel\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\matheus gabriel\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.pdb
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csprojAssemblyReference.cache
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csproj.CoreCompileInputs.cache
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfoInputs.cache
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfo.cs
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.pdb
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.Resources.Resource.resources
+C:\Users\matheus gabriel\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.deps.json
+C:\Users\TI\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.json
+C:\Users\TI\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.runtimeconfig.dev.json
+C:\Users\TI\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\TI\Desktop\projeto\bin\Debug\netcoreapp2.0\projetoPW.pdb
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.Resources.Resource.resources
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.AssemblyInfo.cs
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.dll
+C:\Users\TI\Desktop\projeto\obj\Debug\netcoreapp2.0\projetoPW.pdb
